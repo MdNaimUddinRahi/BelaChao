@@ -1,0 +1,22 @@
+==>demo cmd install react app
+
+1. composer require laravel/ui
+
+install react
+2. php artisan ui react
+
+install react with auth 
+3. php artisan ui react --auth
+
+4. npm install
+
+youtube vedio you need to watch
+
+Next Level GitHub Profile README (NEW) | 
+How To Create An Amazing Profile ReadMe With GitHub Actions
+
+1. https://www.youtube.com/watch?v=ECuqb5Tv9qI
+
+Redux For Beginners | React Redux Tutorial
+
+1. https://www.youtube.com/watch?v=CVpUuw9XSjY
